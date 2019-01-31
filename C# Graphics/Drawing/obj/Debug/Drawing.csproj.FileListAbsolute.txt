@@ -1,0 +1,10 @@
+C:\Users\mert\source\repos\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\mert\source\repos\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\mert\source\repos\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.csprojResolveAssemblyReference.cache
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.Cache
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\mert\source\repos\Drawing\Drawing\obj\Debug\Drawing.pdb
